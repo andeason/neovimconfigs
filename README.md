@@ -12,6 +12,12 @@ A starting point for Neovim that is:
 
 ## Installation
 
+### Custom Notes
+I'll add this as I tweak and get more familiar with the setup....
+Pyright is currently enabled.  To use the LSP, you will also need to have python and run this:
+pip install pyright
+tsc is also set.
+npm install -g typescript-language-server typescript@6
 ### Install Neovim
 
 Kickstart.nvim targets *only* the latest
